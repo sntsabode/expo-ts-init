@@ -1,8 +1,9 @@
-<h1 align="center">Welcome to expo-ts-init 👋</h1>
+# Welcome to `expo-ts-init`
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-MIT-green.svg" />
   </a>
 </p>
 
