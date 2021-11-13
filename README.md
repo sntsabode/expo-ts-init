@@ -5,6 +5,7 @@
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-MIT-green.svg" />
   </a>
+  <a href="https://badge.fury.io/js/expo-ts-init"><img src="https://badge.fury.io/js/expo-ts-init.svg" alt="npm version" height="18"></a>
 </p>
 
 > `expo-ts-init` is a small, no dependencies tool that initializes an Expo managed TypeScript React Native application with Redux and React Navigation pre-configured.
@@ -22,6 +23,12 @@
 ## Installation
 
 ***assuming node.js is installed on your machine***
+
+### Install from NPM
+
+```
+npm i expo-ts-init -g
+```
 
 ### Install from source
 
