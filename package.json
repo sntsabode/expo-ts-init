@@ -1,6 +1,6 @@
 {
   "name": "expo-ts-init",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Initialize an Expo managed React-Native application in Typescript with ReactNavigation and Redux preconfigured.",
   "main": "src/index.js",
   "bin": {
